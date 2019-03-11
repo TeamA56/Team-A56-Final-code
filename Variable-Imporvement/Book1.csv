@@ -1,0 +1,80 @@
+Id ,Surrogate 
+MSSubClass,Categorical 
+MSZoning ,Categorical 
+LotFrontage ,Numerical 
+LotArea ,Numerical 
+Street ,Categorical 
+Alley ,Categorical 
+LotShape,Categorical 
+LandContour,Categorical 
+Utilities ,Categorical 
+LotConfig,Categorical 
+LandSlope ,Categorical 
+Neighborhood,Categorical 
+Condition1,Categorical 
+Condition2 ,Categorical 
+BldgType,Categorical 
+HouseStyle,Categorical 
+OverallQual ,Categorical
+OverallCond ,Categorical
+YearBuilt ,Categorical 
+YearRemodAdd,Categorical 
+RoofStyle ,Categorical 
+RoofMatl,Categorical 
+Exterior1st,Categorical 
+Exterior2nd,Categorical 
+MasVnrType,Categorical 
+MasVnrArea,Numerical 
+ExterQual,Categorical 
+ExterCond,Categorical 
+Foundation,Categorical 
+BsmtQual ,Categorical 
+BsmtCond,Categorical 
+BsmtExposure,Categorical 
+BsmtFinType1,Categorical 
+BsmtFinSF1,Numerical 
+BsmtFinType2,Categorical 
+BsmtFinSF2,Numerical 
+BsmtUnfSF,Numerical 
+TotalBsmtSF,Numerical 
+Heating ,Categorical 
+HeatingQC,Categorical 
+CentralAir ,Categorical 
+Electrical,Categorical 
+1stFlrSF,Numerical 
+2ndFlrSF,Numerical 
+LowQualFinSF ,Numerical 
+GrLivArea ,Numerical 
+BsmtFullBath,Categorical
+BsmtHalfBath,Categorical
+FullBath,Categorical
+HalfBath,Categorical
+BedroomAbvGr ,Categorical
+KitchenAbvGr,Categorical
+KitchenQual,Categorical 
+TotRmsAbvGrd,Categorical
+Functional,Categorical 
+Fireplaces ,Categorical
+FireplaceQu,Categorical 
+GarageType,Categorical 
+GarageYrBlt ,Categorical 
+GarageFinish ,Categorical 
+GarageCars ,Categorical
+GarageArea,Numerical 
+GarageQual,Categorical 
+GarageCond,Categorical 
+PavedDrive,Categorical 
+WoodDeckSF,Numerical 
+OpenPorchSF ,Numerical 
+EnclosedPorch,Numerical 
+3SsnPorch,Numerical 
+ScreenPorch,Numerical 
+PoolArea,Numerical 
+PoolQC,Categorical 
+Fence ,Categorical 
+MiscFeature,Categorical 
+MiscVal,Numerical 
+MoSold,Categorical
+YrSold,Categorical 
+SaleType,Categorical 
+SaleCondition,Categorical
